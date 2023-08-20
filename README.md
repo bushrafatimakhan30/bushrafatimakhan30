@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bushrafatimakhan30](https://github.com/bushrafatimakhan30)
 
-- 💬 Ask me about **Machine Learning Models**
-
 - 📫 How to reach me **bushrafkhan30@gmail.com**
+
+- ⚡ Fun fact **I love listening to lofi beats and country music and love indulging in movie and series binges!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bushrafatimakhan30&show_icons=true&locale=en" alt="bushrafatimakhan30" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bushrafatimakhan30&" alt="bushrafatimakhan30" /></p>
-

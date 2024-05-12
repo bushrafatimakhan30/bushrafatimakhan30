@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bushrafkhan30@gmail.com**
 
-- ⚡ Fun fact **I love listening to lofi beats and country music and love indulging in movie and series binges!**
+- ⚡ Fun fact **I love listening to lofi beats, country music and love indulging in movie and series binges!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

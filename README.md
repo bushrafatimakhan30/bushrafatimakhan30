@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushrafatimakhan30&label=Profile%20views&color=0e75b6&style=flat" alt="bushrafatimakhan30" /> </p>
 
-- 🔭 I’m currently working on **Bulk RNA Sequencing**
+- 🔭 I’m currently working on **DNA Sequencing**
 
 - 🌱 I’m currently learning **Single Cell RNA Sequencing**
 

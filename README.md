@@ -1,14 +1,12 @@
-<h3 align="center">I am a self taught Bioinformatics Data Scientist working on building Machine Learning Models to cure Diseases</h3>
+<h3 align="center">I am a self taught Data Scientist and Bioinformatician working on building Machine Learning Models to cure Diseases</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bushrafatimakhan30&label=Profile%20views&color=0e75b6&style=flat" alt="bushrafatimakhan30" /> </p>
 
-- 🔭 I’m currently working on **DNA Sequencing**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Single Cell RNA Sequencing**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/bushrafatimakhan30](https://github.com/bushrafatimakhan30)
-
-- 💬 Ask me about **Bulk RNA-Seq, ChIP-seq, Single Cell RNA-Seq, Machine Learning**
 
 - 📫 How to reach me **bushrafkhan30@gmail.com**
 

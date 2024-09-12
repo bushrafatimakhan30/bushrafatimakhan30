@@ -1,14 +1,16 @@
-<h3 align="center">I am a self taught Data Scientist and Bioinformatician working on building Machine Learning Models to cure Diseases</h3>
+**Hi there!** 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bushrafatimakhan30&label=Profile%20views&color=0e75b6&style=flat" alt="bushrafatimakhan30" /> </p>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bushrafatimakhan/)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bushrafatimak)
 
-- 🌱 I’m currently learning **Machine Learning**
+I am Bushra Fatima Khan, an undergrad Pharmaceutical Sciences Student at the Rashtrasant Tukadoji Maharaj Nagpur University. My research interests includes a blend of machine (and deep) learning modelling & bioinformatics. I am also interested in Foundational AI models, Biomedical Informatics and Electronic Health Records (EHR).
+- 🌱 I work on Machine Learning and Deep Learning Models in Biomedical Informatics.
+- 💬 Ask me about Biomedical Informatics, RNA Sequencing and Foundational healthcare AI models .
+- 📫 You can reach me at bushrafkhan30@gmail.com
+- ⚡ Fun fact: I’m an Pharmacist turned Biomedical Data Scientist. I switched from Pharmaceutical Sciences to Biomedical Informatics and Healthcare Data Science.
 
-- 👨‍💻 All of my projects are available at [https://github.com/bushrafatimakhan30](https://github.com/bushrafatimakhan30)
 
-- 📫 How to reach me **bushrafkhan30@gmail.com**
 
-- ⚡ Fun fact **I love listening to lofi beats, country music and love indulging in movie and series binges!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am Bushra Fatima Khan, an undergrad Pharmaceutic
   
 ## Let's Connect! 🌐
 
-Whether it's a collaborative project, research discussion, or just a friendly chat about the latest in tech, feel free to reach out!
+Whether it's a collaborative project, research discussion, or just a friendly chat about the latest in Healthtech, feel free to reach out!
 
 - 📩 Email: bushrafkhan30@gmail.com
 - 🐱 GitHub: [bushrafatimakhan30](https://github.com/bushrafatimakhan30)

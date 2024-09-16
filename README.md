@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am Bushra Fatima Khan, an undergrad Pharmaceutic
 # Work Experience 🖥️ :briefcase:
 - :bookmark: Analytics & Informatics Intern @Ahuja Agency
 - :computer: Data Science & Machine Learning Intern @YBI Foundation
-- 🔍: Data Science Intern @Exposys Data Labs
+- 🔍 Data Science Intern @Exposys Data Labs
 
 
   

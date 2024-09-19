@@ -1,6 +1,6 @@
 # Hi! I'm Bushra Fatima Khan (She/her) 👩‍💻 
 
-Welcome to my GitHub profile! I am Bushra Fatima Khan, an undergrad Pharmaceutical Sciences Student at the Rashtrasant Tukadoji Maharaj Nagpur University. My research interests includes a blend of machine (and deep) learning modelling & bioinformatics. I am also interested in Foundational AI models, Biomedical Informatics and Electronic Health Records (EHR).
+Welcome to my GitHub profile! I am Bushra Fatima Khan, an undergrad Pharmaceutical Sciences Student at the Rashtrasant Tukadoji Maharaj Nagpur University. My research interests includes a blend of machine (and deep) learning modelling & bioinformatics. I am also passionate about Foundational AI models, Biomedical Informatics and Electronic Health Records (EHR).
 # Work Experience 🖥️ :briefcase:
 - :bookmark: Analytics & Informatics Intern @Ahuja Agency
 - :computer: Data Science & Machine Learning Intern @YBI Foundation
